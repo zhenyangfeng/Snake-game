@@ -65,9 +65,7 @@ public:
 		p->x = x;
 		p->y = y;
 	}
-	void Debug(){
-		cout << "(" << x << "," << y << ") ";
-	}
+	
 };
 
 class Snake {
